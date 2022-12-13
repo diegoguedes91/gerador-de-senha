@@ -1,4 +1,4 @@
-# Gerador de senha 
+# :closed_lock_with_key: Gerador de senha 
 
 O gerador de senha tem como propósito gerar senhas de acordo como usuário determinar como por emxemplo o tamanho, inserir letras maiúsculas e simbolos. 
 
